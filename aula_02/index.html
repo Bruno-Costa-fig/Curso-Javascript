@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Exemplo</title>
+</head>
+<body>
+  <!-- Formulario HTML -->
+  <!--
+    Form:
+      - action - determina um método a ser realizado após o submit
+      - method - método HTTP utilizado para enviar os dados
+
+    Quando é realizado o SUBMIT a página sempre recarrega
+  -->
+  <form id="form">
+    <label for="numero1">Digite um número:</label>
+    <input type="number" name="numero1" id="numero1">
+
+    <label for="numero2">Digite outro número:</label>
+    <input type="number" name="numero2" id="numero2">
+
+    <button type="submit" onclick="exibeSoma()">Enviar</button>
+  </form>
+
+  <script>
+    var numero1 = document.getElementById('numero1')
+    var numero2 = document.getElementById('numero2')
+
+    var form = document.getElementById('form')
+    form.addEventListener('submit', (e) => e.preventDefault());
+
+    var soma = Number.ParseInt(numero1.value) + Number.ParseInt(numero2.value)
+
+    function exibeSoma(){
+      alert("O resultado da soma é " + soma)
+    }
+  </script>
+</body>
+</html>
