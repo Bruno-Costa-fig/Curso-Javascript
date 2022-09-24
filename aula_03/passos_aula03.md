@@ -1,3 +1,5 @@
+## Extensão CODERUN
+
 ## Operadores de comparação
   == -> igual
   === -> idêntico
@@ -19,3 +21,7 @@
 
 ## Operadores de tipo
   typeof -> usado para saber o tipo de uma variável
+
+## Operadores de incremento e decremento
+  ++ -> adiciona 1
+  -- -> remove 1
