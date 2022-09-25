@@ -8,3 +8,6 @@ Esse é o repositório com os materiais das aulas do curso de JavasScript. Aqui 
 
 - Aula 02 - introdução ao DOM:
   - Nesta aula aprendemos o que é e como fazer as primeiras manipulações do DOM.
+
+- Aula 03 - Operadores e eventos DOM:
+  - Nesta aula aprendemos como usar operadores em JavaScript e como fazer as primeiras manipulações usando eventos DOM.
