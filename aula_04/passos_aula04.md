@@ -10,6 +10,13 @@
 ## Concatenada (em cadeia): if, else if ... else
   - Possue várias condições concatenadas, podendo ou não ter tratamento de exeção ao final.
 
+## Operador ternário:
+ - Validação composta
+
+## Comutação (switch):
+ - Valida conforme casos.
+
+
 # Estruturas de repetição: laço for e while
 ## For
   - Número de repetições fixos
