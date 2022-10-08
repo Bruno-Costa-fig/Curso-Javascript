@@ -13,7 +13,7 @@ Esse é o repositório com os materiais das aulas do curso de JavasScript. Aqui 
   - Nesta aula aprendemos como usar operadores em JavaScript e como fazer as primeiras manipulações usando eventos DOM.
 
 - Aula 04 - Estruturas de condição e repetição:
-  - Nesta aula aprendemos como usar operadores condicionais if, else e else if e também o switch(comutação), e aprenderemos também como utilizar a estrutura de repetição 'for'.
+  - Nesta aula aprendemos como usar operadores condicionais if, else e else if e também o switch(comutação), e aprenderemos também como utilizar a estrutura de repetição 'for' e 'while'.
 
 - Aula 05 - Arrays: conceito e manipulação:
   - Nesta aula aprendemos como usar a estrutura de arrays(vetores e matrizes).
