@@ -1,14 +1,8 @@
-// ## Operadores de comparação
-var n1 = 1
-var n2 = 15
+// # Estruturas condicionais
+// ## Simples: if
 
+// ## Composta: if, else
 
-// ## Diferença entre '=' e '=='
+// ## Concatenada (em cadeia): if, else if ... else
 
-// ## Operadores lógicos
-
-// ## Operadores de tipo
-
-// ## Operadores de incremento e decremento
-console.log(++n1)
-console.log(n1)
+// # Estruturas de repetição: laço for e while

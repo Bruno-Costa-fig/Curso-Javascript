@@ -1,8 +1,6 @@
-## 01 Faça um programa que receba o código correspondente ao cargo de funcionário e seu salário atual e mostre o cargo, o valor do aumento e seu novo salário. Os cargos estão na tabela a seguir:
+## 01 - Crie uma calculadora de IMC.
 
-| Código  | Cargo | Aumento |
-| ------- | ----- | ------- |
-| 1 | Professor | 40% |
-| 2 | Secretário | 30% |
-| 3 | Assistente | 20% |
-| 4 | Diretor | 10% |
+## 02 - Faça um programa que receba o numero de termos a serem exibidos, e execute a sequência de Fibonacci.
+Ex: Número recebido 8. Será exibido os 8 primeiros números seguindo a sequência a partir do 0. Resultado exibido: 0-1-1-2-3-5-8-13
+
+## Desafio: Faça um programa que receba um valor em reais e faça a sua divisão usando o menor número possível de notas, sendo possível utilizar da nota de R$200 até a nota de R$2. Ao final exiba as notas necessárias e o valor que sobrou (caso tenha)
