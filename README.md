@@ -25,7 +25,7 @@ Esse é o repositório com os materiais das aulas do curso de JavasScript. Aqui 
   - Nesta aula vamos começar nossos estudos sobre POO aprendendo a criar os nossos primeiros objetos.
 
 - Aula 08 - Avançando no POO:
- - Nesta aula vamos nos aprofundar nos 3 pilares da orientação à objetos.
+  - Nesta aula vamos nos aprofundar nos 3 pilares da orientação à objetos.
 
 - Aula 09 - Outras estruturas de repetição + manipulação de arrays e objetos.
- - Nesta aula vamos aprender outras formas de manipular objetos e arrays.
+  - Nesta aula vamos aprender outras formas de manipular objetos e arrays.
