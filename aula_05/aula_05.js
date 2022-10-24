@@ -1,25 +1,7 @@
-// exemplo
-// var nome = ["Bruno", "Andre", "Damiao", "Pedro", "Debora", "Alisson", "Bismarck"]
+let frutas = ["banana", "melancia", "laranja", "maça", "acerola"]
 
-// console.log(nome[0])
+//frutas.pop()
 
-// matriz
-let frutas = []
+frutas = frutas.filter(fruta => fruta != "melancia")
 
-let citricas = ['laranja', 'acerola', 'limao']
-
-let outras = ['goiaba', 'manga', 'mamao']
-
-let outras2 = ['morango', 'abacaxi', 'tomate']
-
-// como adicionar um valor
-var nomeList = []
-
-nomeList.push("Bruno")
-nomeList.push("Debora")
-nomeList.push("Alisson")
-
-var result = nomeList.pop()
-
-// console.log(nomeList)
-console.log(result)
+console.log(frutas)
